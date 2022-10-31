@@ -1,7 +1,7 @@
 /**
    * Create By Dika Ardnt.
    * Recode By Naze Dev & AnggaXyzz
-   * Contact Me on wa.me/6282113821188
+   * Contact Me on wa.me/6289518024098
    * Follow https://github.com/nazedev
 */
 
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281997496643']
-global.ownernomer = "6281997496643"
-global.premium = ['6281997496643']
+global.owner = ['6289518024098']
+global.ownernomer = "6289518024098"
+global.premium = ['6289518024098']
 global.packname = 'Sticker By'
-global.author = 'AnggaBotz'
+global.author = 'LuxZBotz'
 global.sessionName = 'angga'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -62,11 +62,11 @@ global.faall = fs.readFileSync('./media/image/fake.jpg')
 global.mygit = 'https://github.com/AnggaXyzZ'
 global.myyt = 'https://youtube.com/channel/UCY89Fb9pCVUeMqEGikvOhNQ'
 global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/I1mlONQxvBlIk5lK7MnOfk"
+global.mygc = 'https://chat.whatsapp.com/DXA76pQ6R3TKQvxRETSxNv"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'AnggaBotz'
-global.akulaku = 'Bot By Angga'
+global.botname = 'LuxZBotz'
+global.akulaku = 'Bot By LuxX'
 global.ytname = 'YT AnggaXyzz' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
